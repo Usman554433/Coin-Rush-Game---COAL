@@ -1,4 +1,4 @@
-# Coin-Rush-Game---COAL
+# Coin Rush Game - COAL  🕹️
  🌟 Embark on the thrilling adventure of Coin Rush: Dash through challenges, flip your way to riches, and prosper in a world of endless excitement! 💰
 
 ## Overview
@@ -14,14 +14,14 @@ In Coin Rush, players control a bucket that moves left and right using the arrow
 - The game features a score display on the top left corner of the screen and a timer on the top right corner, set to 120 seconds. The game ends when the timer runs out.
 
 ## Screenshots
-### Start Screen 
+### Start Screen  🚀
 - ![1](https://github.com/Usman554433/Coin-Rush-Game---COAL/assets/129150855/b5029416-f802-4135-957a-d3335a482526)
 
 
-### Gameplay Screen 
+### Gameplay Screen  🎮
 - ![2](https://github.com/Usman554433/Coin-Rush-Game---COAL/assets/129150855/68792a50-ee08-4f82-8799-fdc3d1cad68d)
 
-### End Screen 
+### End Screen 🏁
 - ![3](https://github.com/Usman554433/Coin-Rush-Game---COAL/assets/129150855/9cfedeb8-a199-4574-b904-58a6778fe5b0)
 
 
@@ -35,4 +35,4 @@ In Coin Rush, players control a bucket that moves left and right using the arrow
 No installation is required to play Coin Rush. Simply download the provided files and run the executable.
 
 ## Credits
-Coin Rush Game was developed by Me (Syed Usman Ali) and my classmate Faizan. Special thanks to Sir Zumar Saad for guidance and support during the development process.
+Coin Rush Game was developed by Me (Syed Usman Ali) and my classmate Faizan. Special thanks to Sir Zumar Saad for guidance and support during the development process.  🙌
