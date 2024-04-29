@@ -2,7 +2,7 @@
  🌟 Embark on the thrilling adventure of Coin Rush: Dash through challenges, flip your way to riches, and prosper in a world of endless excitement! 💰
 
 ## Overview
-Coin Rush Game is a coin-catching game developed as a project for the 3rd Semester of the COAL course. It's implemented in Assembly Language and offers an engaging gaming experience where players control a moving bucket to catch coins while avoiding bombs.a
+Coin Rush Game is a coin-catching game developed as a project for the 3rd Semester of the COAL course. It's implemented in Assembly Language and offers an engaging gaming experience where players control a moving bucket to catch coins while avoiding bombs.aa
 
 ## Gameplay
 In Coin Rush, players control a bucket that moves left and right using the arrow keys. The objective is to catch as many coins as possible within the given time limit while avoiding bombs. Each coin has different point values:
